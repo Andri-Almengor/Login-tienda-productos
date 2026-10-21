@@ -1,0 +1,44 @@
+
+body {
+    background-color: #f4f6f9;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-body {
+    padding: 25px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 7px;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.form-control {
+    border-radius: 7px;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem
+        rgba(13, 110, 253, 0.15);
+}
+
+h2, h3 {
+    font-weight: 600;
+}
